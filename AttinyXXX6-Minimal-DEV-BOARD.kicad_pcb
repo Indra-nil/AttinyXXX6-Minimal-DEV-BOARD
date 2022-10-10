@@ -256,7 +256,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea128a31-b49e-408e-b14f-8194e9eeb282)
     )
-    (fp_text value "USB_B_Micro" (at 0 6.97 -90 unlocked) (layer "F.Fab")
+    (fp_text value "USB_B_Micro" (at 0 6.97 -90 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b5996e7a-ef92-4d6e-a5c1-95c9fec20806)
     )
@@ -264,7 +264,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.08)))
       (tstamp bb2cf5a8-bd65-46ab-a9f5-c76b16e2bb63)
     )
-    (fp_text user "${REFERENCE}" (at -0.03 5.29 -90 unlocked) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0.0626 0.005 -90 unlocked) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 340c3b1e-f064-4314-afdf-cb52af676eef)
     )

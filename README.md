@@ -1,5 +1,6 @@
 # AttinyXXX6-Minimal-DEV-BOARD
-<img src="/board.png">
+<img src="/front.png">
+<img src="/back.png">
 
 This series dev boards are compatible for tinyAVR 0 Series(Attiny406, Attiny806, Attiny1606), tinyAVR 1 Series(Attiny416, Attiny816, Attiny1616, Attiny3216), tinyAVR 2 Series(Attiny426, Attiny826, Attiny1626, Attiny3226) microcontrollers(VQFN-20).
 
